@@ -5,12 +5,10 @@ AmiNotes was created to solve a personal need for a simple and intuitive way to 
 
 Built With
 
-Logic: Gemini & ChatGPT
-
+Logic:
+Gemini & ChatGPT
 UI/Design: v0 Dev
-
 Platform: Expo Go
-
 Deployment: Replit
 
 My Story
